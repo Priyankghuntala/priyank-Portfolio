@@ -19,6 +19,7 @@ Hi, I'm priyank ghuntala and this is my Cyber Security Portfolio. I am currently
 # 📫 Get in Touch
 - [LinkedIn](https://linkedin.com/in/priyankghuntala)
 - [Portfolio](https://priyank.github.io)
+- [X/Twitter](https://x.com/Thiside_priyank)
 
 # Certifications 
 List our your certifications and link to them. Also include the ones you plan on doing!
